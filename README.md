@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @arlenlee
+- 👀 I’m interested in AI 
+- 🌱 I’m currently learning Data mining
